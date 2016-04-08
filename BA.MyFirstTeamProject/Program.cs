@@ -14,6 +14,7 @@ namespace BA.MyFirstTeamProject
         {
             // TODO: 1. create students manager
             var studet = new SampleStudent();
+            var bestStudent = new SampleStudent();
             // TODO: 2. create appropriate students collection and fill it by other students
             // TODO: 3. print marks of all students
         }
